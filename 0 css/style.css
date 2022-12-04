@@ -1,0 +1,46 @@
+body {
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+#weather {
+    margin-bottom: 30px;
+}
+
+#container {
+    margin: 0 auto 30px auto;
+    padding: 20px;
+    width: 600px;
+    height: fit-content;
+    background-color: rgba(255,255,255,0.4);
+    border-radius: 20px;
+}
+
+.align-center {
+    text-align: center;
+}
+
+.hidden {
+    display: none;
+}
+
+h2 {
+    margin-bottom: 0;
+}
+
+h1 {
+    margin: 0 auto 30px auto;
+}
+
+ul {
+    padding-left: 0;
+}
+
+li {
+    list-style : none;
+    margin-bottom: 10px;
+    padding: 5px 10px;
+}
+
+li:hover {
+    text-decoration: wavy underline;
+}
